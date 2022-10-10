@@ -13,7 +13,7 @@ This agent was trained and extensively tested on the Fetch Environments, credits
   > 
   > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to complete the Fetch environments (various robotic manipulation tasks) despite the sparse and uninformative reward signal. 
   > 
-  > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
+
 ## Neural Network Architecture/Pipeline:
 > ![image](https://github.com/Lauren-Stumpf/dissertation/blob/main/photos/neural_net_arch.png)
 
