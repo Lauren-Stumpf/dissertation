@@ -7,9 +7,9 @@ This agent was trained and extensively tested on the Fetch Environments, credits
 
 ## Demo video :
   > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_pick_and_place_video.gif" width="250" height="250"/>
-  > ![Gifdemo2](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_push_video.gif)
-  > ![Gifdemo3](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_reach_video.gif)
-  > ![Gifdemo4](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_slide_video.gif)
+  > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_push_video.gif" width="250" height="250"/>
+  > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_reach_video.gif" width="250" height="250"/>
+  > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_slide_video.gif" width="250" height="250"/>
   > 
   > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to complete the Fetch environments (various robotic manipulation tasks) despite the sparse and uninformative reward signal. 
   > 
