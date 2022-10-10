@@ -1,12 +1,12 @@
 # Deep Ensembled Truncated Quantile Critic with Recurrent Networks (DETRN+) - Reinforcement Learning:
 
 This work was undertaken and submitted as a 3rd year Bachelors Dissertation/Project as part of the degree of Bsc Natural Sciences to the Board of Examiners in the Department of Computer Sciences, Durham University, and is licensed accordingly. 
-## Grade: 1st - 87/100, 11th best in year (of 103 projects).
+## Grade: 1st - 84/100, 11th best in year (of 103 projects).
 
 This agent was trained and extensively tested on the Fetch Environments, credits for the enviroment go to [Matthias Plappert](https://github.com/matthiasplappert). See main paper and codebase for all references and accreditatons.
 
 ## Demo video :
-  > ![Gifdemo1](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_pick_and_place_video.gif)
+  > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_pick_and_place_video.gif" width="250" height="250"/>
   > ![Gifdemo2](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_push_video.gif)
   > ![Gifdemo3](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_reach_video.gif)
   > ![Gifdemo4](https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_slide_video.gif)
