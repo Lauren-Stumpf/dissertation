@@ -14,16 +14,7 @@ This agent was trained and extensively tested on the Fetch Environments, credits
   > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to complete the Fetch environments (various robotic manipulation tasks) despite the sparse and uninformative reward signal. 
   > 
 
-## Neural Network Architecture/Pipeline:
-> ![image](https://github.com/Lauren-Stumpf/dissertation/blob/main/photos/neural_net_arch.png)
 
-
-
-## Repository Contents:
-* The main 20 page paper, Using Intrinsically Motivated Reinforcement Learning for Manipulation Robotics.;
-* The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
-* The accompanying codebase for the agent DETRN+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
-* Videos of the final agent on the Fetch Environments (Fetch-Reach, Fetch-Push, Fetch-Slide, Fetch-Pick-And-Place).
 
 
 ## Paper Abstract:
@@ -53,3 +44,16 @@ particularly promising. We also gain some valuable insights into how best exploi
 best maximised by behaving less greedily and that stochastic agents work best. Overall, the generalisation power of our agent shows
 the value that reinforcement learning has in producing a flexible agent that does not put a precise requirements on the environment it is
 operating in. 
+
+
+
+
+
+## Repository Contents:
+* The main 20 page paper, Using Intrinsically Motivated Reinforcement Learning for Manipulation Robotics.;
+* The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
+* The accompanying codebase for the agent DETRN+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
+* Videos of the final agent on the Fetch Environments (Fetch-Reach, Fetch-Push, Fetch-Slide, Fetch-Pick-And-Place).
+
+## Neural Network Architecture/Pipeline:
+> ![image](https://github.com/Lauren-Stumpf/dissertation/blob/main/photos/neural_net_arch.png)
